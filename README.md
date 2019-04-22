@@ -42,4 +42,4 @@ MIT
 
 ---
 
-> LinkedIn [@damiini](www.linkedin.com/in/drijhwan)
+> LinkedIn [@drijhwan](www.linkedin.com/in/drijhwan)
