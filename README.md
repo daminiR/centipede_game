@@ -16,14 +16,14 @@ decreasing the size by one with each hit.
 
 ## Key Features
 
-* Centipede movement - Make changes, See changes
-* Sound for attack
+* Centipede movement - move with mouse
+* Sound for attack - mouse click a adds attack sound
 * Syntax highlighting
-* Game speed control
+* Game speed control - control speed in `Board.java` with DELAY
 
 ## How To Use
 
-Clone this repository and run `GamePlay.jave`
+Clone this repository and run `GamePlay.java`
 
 ```bash
 # Clone this repository
@@ -33,7 +33,7 @@ $ git clone https://github.com/daminiR/centipede_game.git
 $ cd src
 
 # Run the app
-$ run `GamePlay.jave`
+$ run `GamePlay.java`
 ```
 
 ## License
