@@ -12,7 +12,7 @@ decreasing the size by one with each hit.
   <a href="#license">License</a>
 </p>
 
-<span style="display:block;text-align:center">![](video/github_centipede_demo.gif)
+<align="center">![](video/github_centipede_demo.gif)
 
 ## Key Features
 
