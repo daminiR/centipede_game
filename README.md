@@ -42,4 +42,3 @@ MIT
 
 ---
 
-> LinkedIn [@drijhwan](www.linkedin.com/in/drijhwan)
