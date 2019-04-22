@@ -17,7 +17,7 @@ decreasing the size by one with each hit.
 ## Key Features
 
 * Centipede movement - move with mouse
-* Sound for attack - mouse click a adds attack sound
+* Sound for attack - mouse click adds attack sound
 * Syntax highlighting
 * Game speed control - control speed in `Board.java` with DELAY
 
