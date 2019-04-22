@@ -1,7 +1,7 @@
 <h4 align="center"> A simple version of the classic game - Centipede by Atari Inc.</h4>
 <p align="center">
-In this game the player fights off spiders and centipedes. 4 lives are give per game.
-Centipede breaks into multiple centipede on an attack while
+In this game, the player fights off spiders and centipedes. 4 lives are give per game.
+Centipede breaks into multiple centipedes on an attack while
 decreasing the size by one with each hit.
 </p>
 
@@ -12,7 +12,7 @@ decreasing the size by one with each hit.
   <a href="#license">License</a>
 </p>
 
-![](video/github_centipede_demo.gif)
+<span style="display:block;text-align:center">![](video/github_centipede_demo.gif)
 
 ## Key Features
 
